@@ -1,6 +1,6 @@
 body {
-    color:white;
-    background-color: black;
+    color:rgb(90, 0, 75);
+    background-color: rgba(255, 255, 255, 0.027);
     font-family: Arial, Helvetica, sans-serif;
     color:aliceblue
 }
@@ -23,7 +23,7 @@ header img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(28, 90, 3);
+    border: 5px solid rgb(243, 0, 0);
 
 }
 
@@ -32,7 +32,7 @@ header img {
 }
 
 h1 {
-    color: aliceblue;
+    color: rgb(9, 43, 233);
 }
 
 
